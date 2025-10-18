@@ -1,0 +1,9 @@
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/uninstall.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/kortex-gen3_description_uninstall.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/test.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/edit_cache.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/rebuild_cache.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/list_install_components.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/install.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/install/local.dir
+/home/saheed/task4_submission/task4_ws/build/kortex-gen3_description/CMakeFiles/install/strip.dir
